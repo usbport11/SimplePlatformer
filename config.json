@@ -1,0 +1,16 @@
+{
+    "windowed": true,
+    "width": 800,
+    "height": 600,
+    "sound": false,
+    "volume": 1.0,
+    "fog": false,
+    "weather": false,
+    "softcore": false,
+    "logo": true,
+    "keys": {
+        "left": 37,
+        "right": 39,
+        "jump": 38
+    }
+}

@@ -1,0 +1,34 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 0,0,3,81
+PRODUCTVERSION 0,0,3,81
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904E4"
+    {
+      VALUE "CompanyName", "Yellow Notepad Group"
+      VALUE "FileVersion", "0.0.3.81"
+      VALUE "FileDescription", "Game Test"
+      VALUE "InternalName", "wit"
+      VALUE "LegalCopyright", "(c) 2016 Yellow Notepad Group"
+      VALUE "LegalTrademarks", "(c) 2016 Yellow Notepad Group"
+      VALUE "OriginalFilename", ""
+      VALUE "ProductName", "GameTest"
+      VALUE "ProductVersion", "0.0.3.81"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0409, 1252
+  }
+}
